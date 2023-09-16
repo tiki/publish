@@ -10,3 +10,6 @@
 [submodule "data/s3"]
 	path = data/s3
 	url = https://github.com/tiki/publish-data-s3
+[submodule "data/load"]
+	path = data/load
+	url = https://github.com/tiki/publish-data-load
