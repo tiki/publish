@@ -7,3 +7,6 @@
 [submodule "data/rest"]
 	path = data/rest
 	url = https://github.com/tiki/publish-data-rest
+[submodule "data/s3"]
+	path = data/s3
+	url = https://github.com/tiki/publish-data-s3
