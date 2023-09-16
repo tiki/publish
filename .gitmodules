@@ -1,6 +1,3 @@
-[submodule "data"]
-	path = data
-	url = https://github.com/tiki/publish-data
 [submodule "licenze/sdk"]
 	path = licenze/sdk
 	url = https://github.com/tiki/publish-license-sdk
