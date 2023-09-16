@@ -4,3 +4,6 @@
 [submodule "licenze/sdk"]
 	path = licenze/sdk
 	url = https://github.com/tiki/publish-license-sdk
+[submodule "licenze/upload"]
+	path = licenze/upload
+	url = https://github.com/tiki/publish-license-upload
