@@ -13,3 +13,21 @@
 [submodule "data/load"]
 	path = data/load
 	url = https://github.com/tiki/publish-data-load
+[submodule "sdk/channel"]
+	path = sdk/channel
+	url = https://github.com/tiki/publish-sdk-channel
+[submodule "sdk/flutter"]
+	path = sdk/flutter
+	url = https://github.com/tiki/publish-sdk-flutter
+[submodule "sdk/capacitor"]
+	path = sdk/capacitor
+	url = https://github.com/tiki/publish-sdk-capacitor
+[submodule "sdk/android"]
+	path = sdk/android
+	url = https://github.com/tiki/publish-sdk-android
+[submodule "sdk/ios"]
+	path = sdk/ios
+	url = https://github.com/tiki/publish-sdk-ios
+[submodule "sdk/js"]
+	path = sdk/js
+	url = https://github.com/tiki/publish-sdk-js
