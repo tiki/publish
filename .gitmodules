@@ -4,3 +4,6 @@
 [submodule "licenze/upload"]
 	path = licenze/upload
 	url = https://github.com/tiki/publish-license-upload
+[submodule "data/rest"]
+	path = data/rest
+	url = https://github.com/tiki/publish-data-rest
