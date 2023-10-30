@@ -31,3 +31,6 @@
 [submodule "sdk/js"]
 	path = sdk/js
 	url = https://github.com/tiki/publish-sdk-js
+[submodule "data/stage"]
+	path = data/stage
+	url = https://github.com/tiki/publish-data-stage
